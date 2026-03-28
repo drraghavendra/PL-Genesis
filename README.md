@@ -1,4 +1,7 @@
 # Fee Gated Agent Communication Protocol
+<img width="1024" height="1536" alt="User Sequence diagram" src="https://github.com/user-attachments/assets/24b8975c-9d99-41b6-95f5-894089992fad" />
+
+
 
 
 The Fee-Gated Agent Communication Protocol (FGACP) is a comprehensive solution designed to solve the "Agent Communication Crisis"—where AI agents currently rely on centralized, censorable brokers and suffer from ephemeral memory and spam.
